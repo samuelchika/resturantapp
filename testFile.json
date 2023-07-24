@@ -1,0 +1,59 @@
+
+[ 
+{
+    "make": "",
+    "model":"",
+    "year":"",
+    "vin":"",
+    "features": {
+        "reverseCamera": false,
+        "airCondition": false,
+        "parkingSensor": false,
+        "andriodAudio": false,
+        "appleCarPlay": false,
+        "bluetooth": false,
+        "tintedGlass": false,
+        "satNavigation": false,
+        "allowWheels": false,
+        "sunroof": false,
+        "powerSteering": false,
+        "keylessEntry": false,
+        "centralLock": false,
+        "audioSystem": false
+    }
+},
+{
+    "propertySize": "",
+    "dateAvailable":"",
+    "propertyCondition": "",
+    "features": {
+        "constantLight": false,
+        "fullyFurnished": false,
+        "jacuzziBath": false,
+        "gated": false,
+        "furnished": false,
+        "parkingSpace": false,
+        "tarredRoad": false,
+        "balcony": false,
+        "security": false,
+        "semiFurnished": false,
+        "ensuite": false,
+        "cOfO": false,
+        "other": ""
+    },
+    "propertyType": {
+        "bungalow": false,
+        "miniflat": false,
+        "terrace": false,
+        "duplex": false,
+        "maisonette": false,
+        "house": false,
+        "blockOfFlats": false,
+        "studioApartment": false,
+        "penthouse": false,
+        "condo": false,
+        "mansion": false,
+        "roomParlor": false
+    }
+}
+]
